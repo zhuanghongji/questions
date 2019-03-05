@@ -115,14 +115,8 @@
 [⇧ 返回顶部](#questions)
 
 * [ ] 四大组件是什么
-* [ ] Activity 的生命周期
+* [ ] [Activity 各种情况下的生命周期](./res/201903/060026/)
 * [ ] Activity 之间的通信方式
-* [ ] Activity 各种情况下的生命周期
-* [ ] 横竖屏切换时 Activity 的生命周期
-* [ ] 前台切换到后台，然后再回到前台时 Activity 的生命周期
-* [ ] 弹出 Dialog 的时候按 Home 键时 Activity 的生命周期
-* [ ] 两个 Activity 之间跳转时的生命周期
-* [ ] 下拉状态栏时 Activity 的生命周期
 * [ ] Activity 与 Fragment 之间生命周期比较
 * [ ] Activity 的四种 LaunchMode（启动模式）的区别
 * [ ] Activity 状态保存与恢复
