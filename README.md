@@ -72,7 +72,7 @@
 * [ ] synchronized 关键字的用法、作用及实现原理
 * [ ] volatile 关键字的用法、作用及实现原理
 * [ ] transient 关键字的用法、作用及实现原理
-* [ ] ReentrantLock、synchronized、volatile 之间的区别
+* [ ] [Atomic、synchronized、volatile 之间的区别](./res/201903/060021/)
 * [ ] 什么是线程池，如何使用
 * [ ] 多线程断点续传的实现原理
 * [ ] 什么是深拷贝和浅拷贝
