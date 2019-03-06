@@ -119,7 +119,7 @@
 * [ ] [Activity 的四种启动模式和使用场景](./res/201903/060042/)
 * [ ] Activity 之间的通信方式
 * [ ] Activity 与 Fragment 之间生命周期比较
-* [ ] Activity 状态保存与恢复
+* [ ] [Activity 状态的保存与恢复](./res/201903/062215、)
 * [ ] Fragment 各种情况下的生命周期
 * [ ] Activity 和 Fragment 之间怎么通信， Fragment 和 Fragment 怎么通信
 * [ ] Service 的生命周期和启动方式
