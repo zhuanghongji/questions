@@ -172,8 +172,8 @@
 
 * [ ] 画出 Android 的大体架构图
 * [ ] 低版本 SDK 如何使用高版本 API
-* [ ] AsyncTask 如何使用
 * [ ] AsyncTask 机制、原理及不足
+* [ ] [为什么 AsyncTask 只能执行一次](./res/201903/062357/)
 * [ ] 如果在 onStop() 的时候做了网络请求，onResume() 的时候怎么恢复
 * [ ] Handler 机制和底层实现
 * [ ] Handler、Thread、HandlerThread 区别
