@@ -116,9 +116,9 @@
 
 * [ ] 四大组件是什么
 * [ ] [Activity 各种情况下的生命周期](./res/201903/060026/)
+* [ ] [Activity 的四种启动模式和使用场景](./res/201903/060042/)
 * [ ] Activity 之间的通信方式
 * [ ] Activity 与 Fragment 之间生命周期比较
-* [ ] Activity 的四种 LaunchMode（启动模式）的区别
 * [ ] Activity 状态保存与恢复
 * [ ] Fragment 各种情况下的生命周期
 * [ ] Activity 和 Fragment 之间怎么通信， Fragment 和 Fragment 怎么通信
